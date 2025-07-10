@@ -26,8 +26,6 @@ Hello! I'm **Maaz Adil**, an **Electrical Engineer** passionate about innovation
 ---
 
 ## 💡 Fields of Interest
-
-```yaml
 - ⚡ Power & Renewable Energy
 - 🤖 Embedded Systems & Robotics
 - 🧠 AI & Control Systems
@@ -35,7 +33,6 @@ Hello! I'm **Maaz Adil**, an **Electrical Engineer** passionate about innovation
 - 🖥️ Python + Arduino Programming
 
 ---
-
 ##🧰 Tech Stack
 <div align="center"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/Proteus-002F6C?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </div>
 
