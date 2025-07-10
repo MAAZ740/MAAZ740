@@ -1,6 +1,6 @@
 <!-- Animated waving hand -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Maaz+Adil;Electrical+Engineer+|+Tech+Enthusiast;Welcome+to+my+GitHub+profile!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Maaz+Adil; Electrical+Engineer+|+Tech+Enthusiast; Welcome+to+my+GitHub+profile!&center=true&size=30">
 </h1>
 
 <div align="center">
