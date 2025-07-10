@@ -1,7 +1,7 @@
-<!-- Animated waving hand -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Maaz+Adil; Electrical+Engineer+|+Tech+Enthusiast; Welcome+to+my+GitHub+profile!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&multiline=true&lines=Hi,+I'm+Maaz+Adil;Electrical+Engineer+|+Tech+Enthusiast;Welcome+to+my+GitHub+profile!&font=Fira+Code&size=28&pause=1000&color=00F7FF" alt="Typing SVG" />
 </h1>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Electrical%20Engineer-Tech-blue?style=for-the-badge&logo=google" />
