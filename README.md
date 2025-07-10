@@ -49,4 +49,7 @@ Hello! I'm **Maaz Adil**, an **Electrical Engineer** passionate about innovation
 ---
 
 # 🧠 Fun Fact
-"Great engineers aren't born, they're built — circuit by circuit, bug by bug."
+<p align="center">
+  <em>"Great engineers aren't born, they're built — circuit by circuit, bug by bug."</em>
+</p>
+
