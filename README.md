@@ -44,8 +44,7 @@ Hello! I'm **Maaz Adil**, an **Electrical Engineer** passionate about innovation
 ---
 
 ##  🤝 Connect With Me
-<div align="center"> <a href="mailto:maazadil740@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/maaz-adil-35a2a628a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5KJmZ6%2BWQpC%2Bup41A%2BwRoA%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/maazadil"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> </div>
-
+<div align="center"> <a href="mailto:maazadil740@gmail.com?subject=Hello%20Maaz!" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/maaz-adil-35a2a628a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/maazadil" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
 ---
 
 # 🧠 Fun Fact
