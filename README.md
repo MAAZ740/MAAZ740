@@ -48,7 +48,7 @@
   <img src="autocad-logo-png_seeklogo-482394.png" height="40" alt="AutoCAD" />
   <img src="model-sim-blog.png" height="40" alt="ModelSim" />
   <img src="kisspng-logo-brand-product-design-font-5be2601b5459b1.2308925415415623953455.webp" height="40" alt="Proteus" />
-  <img src="File_Gtkwave_256x256x32.png" height="40" alt="GTKWave" />
+  <img src="ms.png" height="40" alt="GTKWave" />
 </p>
 
 ---
