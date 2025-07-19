@@ -38,7 +38,7 @@
   <img src="https://img.icons8.com/color/48/adobe-after-effects.png" height="40" alt="After Effects" />
   <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" height="40" alt="Photoshop" />
   <img src="https://img.icons8.com/color/48/adobe-premiere-pro.png" height="40" alt="Premiere Pro" />
-  <img src="https://seeklogo.com/images/W/wondershare-filmora-logo-6141D16003-seeklogo.com.png" height="40" alt="Filmora" />
+  <img src="gratis-png-editor-de-video-editor-de-video-apple.png" height="40" alt="Filmora" />
 </p>
 
 #### ⚙️ Engineering & Simulation:
@@ -49,7 +49,6 @@
   <img src="model-sim-blog.png" height="40" alt="ModelSim" />
   <img src="kisspng-logo-brand-product-design-font-5be2601b5459b1.2308925415415623953455.webp" height="40" alt="Proteus" />
   <img src="File_Gtkwave_256x256x32.png" height="40" alt="GTKWave" />
-  <img src="https://avatars.githubusercontent.com/u/14932366?s=200&v=4" height="40" alt="Verilator" />
 </p>
 
 ---
