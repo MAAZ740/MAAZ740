@@ -38,7 +38,7 @@
   <img src="https://img.icons8.com/color/48/adobe-after-effects.png" height="40" alt="After Effects" />
   <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" height="40" alt="Photoshop" />
   <img src="https://img.icons8.com/color/48/adobe-premiere-pro.png" height="40" alt="Premiere Pro" />
-  <img src="gratis-png-editor-de-video-editor-de-video-apple.png" height="40" alt="Filmora" />
+  <img src="Filmora_logotype.jpg" height="40" alt="Filmora" />
 </p>
 
 #### ⚙️ Engineering & Simulation:
