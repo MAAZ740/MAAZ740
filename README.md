@@ -1,54 +1,93 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&multiline=true&lines=Hi,+I'm+Maaz+Adil;Electrical+Engineer+|+Tech+Enthusiast;Welcome+to+my+GitHub+profile!&font=Fira+Code&size=28&pause=1000&color=00F7FF" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Maaz Adil</h1>
+<h3 align="center">Electrical Engineering Student | Creative Technologist | Tech Explorer</h3>
 
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Electrical%20Engineer-Tech-blue?style=for-the-badge&logo=google" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Always%20Learning-💡-yellow?style=for-the-badge" />
-</div>
-
-<br />
-
----
-
-## 🧑‍💼 About Me
-
-Hello! I'm **Maaz Adil**, an **Electrical Engineer** passionate about innovation and the crossroad of **hardware** and **software**. I love building intelligent systems, automating things, and creating solutions that matter.
-
-- 🎓 Third year in Electrical Engineering
-- 🤖 Into Embedded Systems, IoT, and Control Systems
-- 🌱 Learning Python, MATLAB, Proteus, and Git every day
-- 💬 Ask me about energy, circuits, or microcontrollers!
-- 🌍 Aiming to contribute to smart energy and sustainable tech
-
----
-
-## 💡 Fields of Interest
-- ⚡ Power & Renewable Energy
-- 🤖 Embedded Systems & Robotics
-- 🧠 AI & Control Systems
-- 🔧 Circuit Design & Simulation
-- 🖥️ Python + Arduino Programming
-
----
-## 🧰 Tech Stack
-<div align="center"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/Proteus-002F6C?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </div>
-
----
-
-##  📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maazadil&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=maazadil&theme=tokyonight&hide_border=true&border_radius=10" width="47%" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazadil&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="47%" /> </div>
-
----
-
-##  🤝 Connect With Me
-<div align="center"> <a href="mailto:maazadil740@gmail.com?subject=Hello%20Maaz!" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/maaz-adil-35a2a628a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/maazadil" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
----
-
-# 🧠 Fun Fact
 <p align="center">
-  <em>"Great engineers aren't born, they're built — circuit by circuit, bug by bug."</em>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=24&duration=5000&center=true&vCenter=true&width=700&lines=Robotics+%7C+Embedded+Systems+%7C+Game+Development;2D%2F3D+Animation+%7C+VFX+%7C+CGI+%7C+3D+Modeling" />
 </p>
 
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 I'm a student of **Electrical Engineering** from **Hyderabad, Pakistan**  
+- 🤖 Passionate about **Robotics**, **Embedded Systems**, **Game Development**, and **Coding**
+- 🎬 Love **filmmaking** – from **2D/3D animation**, **realistic VFX**, **CGI**, to **3D modeling**
+- 💬 I speak **Urdu** and **English**
+- 🚀 Currently building personal projects (will be published soon!)
+- 🌑 I enjoy working in **dark theme**, mixing fun with professionalism
+
+---
+
+### 🛠️ Languages & Tools
+
+#### 👨‍💻 Programming & Hardware:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" />
+</p>
+
+#### 🎥 Creative Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" />
+  <img src="https://img.icons8.com/color/48/adobe-after-effects.png" height="40" alt="After Effects" />
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" height="40" alt="Photoshop" />
+  <img src="https://img.icons8.com/color/48/adobe-premiere-pro.png" height="40" alt="Premiere Pro" />
+  <img src="https://seeklogo.com/images/W/wondershare-filmora-logo-6141D16003-seeklogo.com.png" height="40" alt="Filmora" />
+</p>
+
+#### ⚙️ Engineering & Simulation:
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/ubuntu--v1.png" height="40" alt="Ubuntu" />
+  <img src="https://seeklogo.com/images/A/autocad-logo-F8B47083A8-seeklogo.com.png" height="40" alt="AutoCAD" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/4f/ModelSim_logo.png" height="40" alt="ModelSim" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Proteus_Design_Suite_Logo.png" height="40" alt="Proteus" />
+  <img src="https://avatars.githubusercontent.com/u/60843594?s=200&v=4" height="40" alt="GTKWave" />
+  <img src="https://avatars.githubusercontent.com/u/14932366?s=200&v=4" height="40" alt="Verilator" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Maaz GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### ⚡ Fun Fact:
+> "Creativity is just intelligence having fun!" – And I love mixing circuits with cinema!
+
+---
+
+### 👣 Visitors
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
