@@ -46,7 +46,7 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/ubuntu--v1.png" height="40" alt="Ubuntu" />
   <img src="autocad-logo-png_seeklogo-482394.png" height="40" alt="AutoCAD" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/4f/ModelSim_logo.png" height="40" alt="ModelSim" />
+  <img src="model-sim-blog.png" height="40" alt="ModelSim" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Proteus_Design_Suite_Logo.png" height="40" alt="Proteus" />
   <img src="https://avatars.githubusercontent.com/u/60843594?s=200&v=4" height="40" alt="GTKWave" />
   <img src="https://avatars.githubusercontent.com/u/14932366?s=200&v=4" height="40" alt="Verilator" />
